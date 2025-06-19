@@ -19,10 +19,39 @@
 
 
 
-
 # 💻 Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)  ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)   ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) 
 
+# 📂 My Projects
+## ☁️ Cloud Projects
+- Low-code SaaS Application with Automation & Security  
+  - <b>Cloud-based Business Application with Workflow Automation (Force.com platform)</b>  
+    - [Designed and implemented an automated Equipment Maintenance Tracker using Salesforce Force.com platform, focusing on workflow automation, security configuration, and role-based access controls.](https://github.com/your-repo-link)
+- AWS-based Cloud Infrastructure Architecture  
+  - <b>Scalable AWS Cloud Architecture with Auto Scaling & Multi-AZ RDS</b>  
+    - [Designed and deployed an AWS architecture using EC2, ALB, ASG, RDS Multi-AZ, SNS, and VPC, focusing on scalability, high availability, and disaster recovery.](https://github.com/your-repo-link)
+
+## 💻 Software Development Projects
+- Introductory Java Programming Projects  
+  - <b>Object-Oriented Java Application (Programming 1 coursework)</b>  
+    - [Developed a Java desktop application applying object-oriented programming concepts and basic data structures.](https://github.com/your-repo-link)
+  - <b>Advanced Java Application with File I/O and GUI (Programming 2 coursework)</b>  
+    - [Implemented a Java application with advanced file I/O, object serialization, and GUI features.](https://github.com/your-repo-link)
+- Basic Web Systems Project  
+  - <b>Responsive Web Application (Web Systems coursework)</b>  
+    - [Designed and implemented a responsive web application using HTML, CSS, JavaScript, and PHP.](https://github.com/your-repo-link)
+- Full Stack Java Web Application  
+  - <b>IoTBay Web System (Full Stack Java Web Application)</b>  
+    - [Developed a web-based IoT device transaction system with user access management, product catalogue, order & payment management, implemented in Java (JSP/Servlet), JDBC, and MVC architecture.](https://github.com/your-repo-link)
+
+## 🔐 Cybersecurity Projects
+## 🌐 Network Programming Projects
+- Multi-threaded Web Server  
+  - <b>Python-based Multi-threaded Web Server (Network Programming Project A)</b>  
+    - [Implemented an HTTP 1.1 web server with Python socket programming, supporting multi-threaded client handling, file requests, and basic error handling.](https://github.com/your-repo-link)
+- Advanced Network Programming Project  
+  - <b>[Project B Title Here] (Network Programming Project B)</b>  
+    - [Description of what Project B does — e.g., advanced socket programming, multi-client server, additional protocol features.](https://github.com/your-repo-link)
 
 
 # 📊 GitHub Stats:
