@@ -24,16 +24,17 @@
 
 ## 📂 My Projects
 - ☁️ [Cloud Projects](#cloud-projects)
-- 💻 [Software Development Projects](#software-development-projects)
-- 🌐 [Network Programming Projects](#network-programming-projects)
-- 🔐 [Cybersecurity Projects](#cybersecurity-projects)
+- 💻 [Software Development Projects](#soft-dev-projects)
+- 🌐 [Network Programming Projects](#net-projects)
+- 🔐 [Cybersecurity Projects](#cybersec-projects)
 
 
 
 ## 📊 GitHub Stats:
 ![Yein's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeinJeong131&show_icons=true&theme=radical)
 
-## ☁️ Cloud Projects
+<h2 id="cloud-projects">☁️ Cloud Projects </h2>
+
 - Low-code SaaS Application with Automation & Security  
   - <b>Cloud-based Business Application with Workflow Automation (Force.com platform)</b>  
     - [Designed and implemented an automated Equipment Maintenance Tracker using Salesforce Force.com platform, focusing on workflow automation, security configuration, and role-based access controls.](https://github.com/your-repo-link)
@@ -41,7 +42,8 @@
   - <b>Scalable AWS Cloud Architecture with Auto Scaling & Multi-AZ RDS</b>  
     - [Designed and deployed an AWS architecture using EC2, ALB, ASG, RDS Multi-AZ, SNS, and VPC, focusing on scalability, high availability, and disaster recovery.](https://github.com/your-repo-link)
 
-## 💻 Software Development Projects
+<h2 id="soft-dev-projects"> 💻 Software Development Projects </h2>
+
 - Introductory Java Programming Projects  
   - <b>Object-Oriented Java Application (Programming 1 coursework)</b>  
     - [Developed a Java desktop application applying object-oriented programming concepts and basic data structures.](https://github.com/your-repo-link)
@@ -54,8 +56,10 @@
   - <b>IoTBay Web System (Full Stack Java Web Application)</b>  
     - [Developed a web-based IoT device transaction system with user access management, product catalogue, order & payment management, implemented in Java (JSP/Servlet), JDBC, and MVC architecture.](https://github.com/your-repo-link)
 
-## 🔐 Cybersecurity Projects
-## 🌐 Network Programming Projects
+<h2 id="cybersec-projects"> 🔐 Cybersecurity Projects </h2>
+
+<h2 id="net-projects"> 🌐 Network Programming Projects</h2>
+
 - Multi-threaded Web Server  
   - <b>Python-based Multi-threaded Web Server (Network Programming Project A)</b>  
     - [Implemented an HTTP 1.1 web server with Python socket programming, supporting multi-threaded client handling, file requests, and basic error handling.](https://github.com/your-repo-link)
