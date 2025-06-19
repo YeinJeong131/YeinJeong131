@@ -44,15 +44,22 @@
 
 <h2 id="soft-dev-projects"> 💻 Software Development Projects </h2>
 
-- Introductory Java Programming Projects  
-  - <b>Object-Oriented Java Application (Programming 1 coursework)</b>  
-    - [Developed a Java desktop application applying object-oriented programming concepts and basic data structures.](https://github.com/your-repo-link)
-  - <b>Advanced Java Application with File I/O and GUI (Programming 2 coursework)</b>  
-    - [Implemented a Java application with advanced file I/O, object serialization, and GUI features.](https://github.com/your-repo-link)
-- Basic Web Systems Project  
+- **Introductory Java Programming Projects**
+  - Object-Oriented Java Application (Programming 1 coursework)  
+        ▪️ _Developed a Java desktop application applying object-oriented programming concepts and basic data structures._  
+        → [SuperCar customizing project](https://github.com/your-repo-link-to-supercar)
+  - Study Planner Application (Programming 2 coursework) 
+        ▪️ _Developed a Java application with file I/O, list management, and menu-driven interaction features._  
+        → [Study Planner App](https://github.com/your-repo-link-to-studyplanner)
+  - Task Manager Application with MVC Pattern (Programming 2 coursework)  
+        ▪️ _Implemented a Java application using MVC pattern, list sorting, and advanced user interaction handling._  
+        → [Task Manager App](https://github.com/your-repo-link-to-taskmanager)
+    
+- **Basic Web Systems Project**  
   - <b>Responsive Web Application (Web Systems coursework)</b>  
     - [Designed and implemented a responsive web application using HTML, CSS, JavaScript, and PHP.](https://github.com/your-repo-link)
-- Full Stack Java Web Application  
+      
+- **Full Stack Java Web Application**  
   - <b>IoTBay Web System (Full Stack Java Web Application)</b>  
     - [Developed a web-based IoT device transaction system with user access management, product catalogue, order & payment management, implemented in Java (JSP/Servlet), JDBC, and MVC architecture.](https://github.com/your-repo-link)
 
