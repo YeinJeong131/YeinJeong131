@@ -46,13 +46,13 @@
 
 - **Introductory Java Programming Projects**
   - Object-Oriented Java Application (Programming 1 coursework)  
-        ▪️ _Developed a Java desktop application applying object-oriented programming concepts and basic data structures._  
-        → [SuperCar customizing project](https://github.com/your-repo-link-to-supercar)
+    - _Developed a Java desktop application applying object-oriented programming concepts and basic data structures._  
+        → [SuperCar customizing project](https://github.com/YeinJeong131/SuperCarCustomizationApp)
   - Study Planner Application (Programming 2 coursework) 
-        ▪️ _Developed a Java application with file I/O, list management, and menu-driven interaction features._  
+    - _Developed a Java application with file I/O, list management, and menu-driven interaction features._  
         → [Study Planner App](https://github.com/your-repo-link-to-studyplanner)
   - Task Manager Application with MVC Pattern (Programming 2 coursework)  
-        ▪️ _Implemented a Java application using MVC pattern, list sorting, and advanced user interaction handling._  
+    - _Implemented a Java application using MVC pattern, list sorting, and advanced user interaction handling._  
         → [Task Manager App](https://github.com/your-repo-link-to-taskmanager)
     
 - **Basic Web Systems Project**  
