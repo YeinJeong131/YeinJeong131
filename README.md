@@ -57,7 +57,8 @@
     
 - **Basic Web Systems Project**  
   - <b>Responsive Web Application (Web Systems coursework)</b>  
-    - [Designed and implemented a responsive web application using HTML, CSS, JavaScript, and PHP.](https://github.com/your-repo-link)
+    - [Designed and implemented my first responsive web application using only HTML and CSS. This project focused on applying basic layout and styling principles, introducing me to core front-end development concepts.](https://github.com/YeinJeong131/MyFirstWebsite)
+
       
 - **Full Stack Java Web Application**  
   - <b>IoTBay Web System (Full Stack Java Web Application)</b>  
