@@ -37,7 +37,7 @@
 
 - Low-code SaaS Application with Automation & Security  
   - <b>Cloud-based Business Application with Workflow Automation (Force.com platform)</b>  
-    - [Designed and implemented an automated Equipment Maintenance Tracker using Salesforce Force.com platform, focusing on workflow automation, security configuration, and role-based access controls.](https://github.com/your-repo-link)
+    - [Designed and implemented an automated Equipment Maintenance Tracker using Salesforce Force.com platform, focusing on workflow automation, security configuration, and role-based access controls.](https://github.com/YeinJeong131/Workflow-Automation-App-ForceCom)
 - AWS-based Cloud Infrastructure Architecture  
   - <b>Scalable AWS Cloud Architecture with Auto Scaling & Multi-AZ RDS</b>  
     - [Designed and deployed an AWS architecture using EC2, ALB, ASG, RDS Multi-AZ, SNS, and VPC, focusing on scalability, high availability, and disaster recovery.](https://github.com/your-repo-link)
@@ -50,10 +50,10 @@
         → [SuperCar customizing project](https://github.com/YeinJeong131/SuperCarCustomizationApp)
   - Study Planner Application (Programming 2 coursework) 
     - _Developed a Java application with file I/O, list management, and menu-driven interaction features._  
-        → [Study Planner App](https://github.com/your-repo-link-to-studyplanner)
+        → [Study Planner App](https://github.com/YeinJeong131/StudyPlannerApp)
   - Task Manager Application with MVC Pattern (Programming 2 coursework)  
     - _Implemented a Java application using MVC pattern, list sorting, and advanced user interaction handling._  
-        → [Task Manager App](https://github.com/your-repo-link-to-taskmanager)
+        → [Task Manager App](https://github.com/YeinJeong131/TaskManagerApp)
     
 - **Basic Web Systems Project**  
   - <b>Responsive Web Application (Web Systems coursework)</b>  
@@ -68,10 +68,15 @@
 <h2 id="net-projects"> 🌐 Network Programming Projects</h2>
 
 - Multi-threaded Web Server  
-  - <b>Python-based Multi-threaded Web Server (Network Programming Project A)</b>  
-    - [Implemented an HTTP 1.1 web server with Python socket programming, supporting multi-threaded client handling, file requests, and basic error handling.](https://github.com/your-repo-link)
-- Advanced Network Programming Project  
-  - <b>[Project B Title Here] (Network Programming Project B)</b>  
-    - [Description of what Project B does — e.g., advanced socket programming, multi-client server, additional protocol features.](https://github.com/your-repo-link)
+  - <b>[Python-based Multi-threaded Web Server](https://github.com/YeinJeong131/Multithreaded-WebServer-Python)</b>  
+    - Implemented an HTTP 1.1 web server using Python socket programming. Supports multi-threaded client handling, file retrieval, and basic HTTP error handling.
+
+- UDP Pinger Simulator  
+  - <b>[UDP Pinger Simulator](https://github.com/YeinJeong131/UDP-Pinger-Simulator)</b>  
+    - Simulates ICMP-like ping behavior over UDP. Built using Python to send/receive packets with simulated packet loss and delay, measuring round-trip time (RTT).
+
+- UDP Heartbeat Checker  
+  - <b>[UDP Heartbeat Checker](https://github.com/YeinJeong131/UDP-Heartbeat-Checker)</b>  
+    - Implements a heartbeat monitoring system over UDP. Server tracks active clients based on periodic heartbeat messages; inactive clients are flagged based on timeout thresholds.
 
 
