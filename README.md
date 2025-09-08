@@ -33,7 +33,7 @@
 ## GitHub Stats:
 ![Yein's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeinJeong131&show_icons=true&theme=radical)
 
-<h2 id="cloud-projects">☁️ Cloud Projects </h2>
+<h2 id="cloud-projects">Cloud Projects </h2>
 
 - Low-code SaaS Application with Automation & Security  
   - <b>Cloud-based Business Application with Workflow Automation (Force.com platform)</b>  
@@ -42,7 +42,7 @@
   - <b>Scalable AWS Cloud Architecture with Auto Scaling & Multi-AZ RDS</b>  
     - [Designed and deployed an AWS architecture using EC2, ALB, ASG, RDS Multi-AZ, SNS, and VPC, focusing on scalability, high availability, and disaster recovery.](https://github.com/your-repo-link)
 
-<h2 id="soft-dev-projects"> 💻 Software Development Projects </h2>
+<h2 id="soft-dev-projects">Software Development Projects </h2>
 
 - **Introductory Java Programming Projects**
   - Object-Oriented Java Application (Programming 1 coursework)  
