@@ -1,14 +1,14 @@
 # 💫 About Me:
 ### Hi, I'm Yein! 👋
 
-☁️ Aspiring **Cloud Engineer** <br/> 
-🎓 Currently studying Bachelor of Information Technology at **UTS**  <br/>
-(Major: Enterprise Software Development | Sub-major: Networking & Cybersecurity)  <br/>
-📚 Currently learning **AWS Cloud Practitioner** (Udemy) <br/>
-📂 Currently working on [Put my project name later]() <br/>
+- Aspiring **Cloud Engineer** <br/> 
+- Currently studying Bachelor of Information Technology at **UTS**  <br/>
+  - (Major: Enterprise Software Development | Sub-major: Networking & Cybersecurity)  <br/>
+- Currently learning **AWS Cloud Practitioner** (Udemy) <br/>
+- Currently working on [Put my project name later]() <br/>
 
-📝 Working as a Korean tutor on AmazingTalker  <br/>
-🛠️ **Leader** of "컴퓨터 해방방" — **an IT & AI knowledge-sharing channel** in a 1,300+ member Discord community  <br/>
+- Working as a Korean tutor on AmazingTalker  <br/>
+- **Leader** of "컴퓨터 해방방" — **an IT & AI knowledge-sharing channel** in a 1,300+ member Discord community  <br/>
 (Conducting Notion database & dashboard mini-classes, writing AI & IT related articles/columns) <br/>
 
 
@@ -30,7 +30,7 @@
 
 
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 ![Yein's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeinJeong131&show_icons=true&theme=radical)
 
 <h2 id="cloud-projects">☁️ Cloud Projects </h2>
