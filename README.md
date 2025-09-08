@@ -5,7 +5,7 @@
 - Currently studying Bachelor of Information Technology at **UTS**  <br/>
   - (Major: Enterprise Software Development | Sub-major: Networking & Cybersecurity)  <br/>
 - Currently learning **AWS Cloud Practitioner** (Udemy) <br/>
-- Currently working on [Put my project name later]() <br/>
+- Currently working on [BetterPedia Project](https://github.com/YeinJeong131/ASD) <br/>
 
 - Working as a Korean tutor on AmazingTalker  <br/>
 - **Leader** of "컴퓨터 해방방" — **an IT & AI knowledge-sharing channel** in a 1,300+ member Discord community  <br/>
