@@ -13,13 +13,13 @@ Experienced in clear technical communication, problem clarification, and structu
 
 Actively pursuing an IT internship to apply academic learning in real-world environments, with growing cloud expertise supported by AWS Cloud Practitioner certification and hands-on project work.
 
-
+---
 
 ##  My Profiles:
 - [My LinkedIn](www.linkedin.com/in/yein-jeong)  <br/>
 - [My GitHub](https://github.com/YeinJeong131)  <br/>
 - [My Portfolium](https://portfolium.com.au/YeinJeong/portfolio)<br/>
-
+----
 
 
 ## Tech Stack:
