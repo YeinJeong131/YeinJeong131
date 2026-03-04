@@ -1,7 +1,7 @@
 # About Me:
 ### Hi, I'm Yein Jeong.
 
-I am an **Information Technology** student at the <u>**University of Technology Sydney**</u>.
+I am an **Information Technology** student at the <ins>**University of Technology Sydney**</ins>.
 
 - Major: Enterprise Software Development  
 - Sub-major: Networking & Cybersecurity
@@ -43,13 +43,12 @@ Actively pursuing an IT internship to apply academic learning in real-world envi
 <h2 id="cloud-projects">Cloud Projects </h2>
 
 **Cloud-based Business Application with Workflow Automation (Salesforce Force.com)**  
-Designed and implemented an automated Equipment Maintenance Tracker using the Salesforce Force.com platform, focusing on workflow automation, security configuration, and role-based access controls. 
+- Designed and implemented an automated Equipment Maintenance Tracker using the Salesforce Force.com platform, focusing on workflow automation, security configuration, and role-based access controls. <br/>
 → [View Project](https://github.com/YeinJeong131/Workflow-Automation-App-ForceCom) <br/>
 
----
 
 **Scalable AWS Cloud Architecture with Auto Scaling & Multi-AZ RDS**  
-Designed and deployed an AWS architecture using EC2, ALB, ASG, RDS Multi-AZ, SNS, and VPC, focusing on scalability, high availability, and disaster recovery. 
+- Designed and deployed an AWS architecture using EC2, ALB, ASG, RDS Multi-AZ, SNS, and VPC, focusing on scalability, high availability, and disaster recovery.  <br/>
 → [View Project](https://github.com/your-repo-link)
 
 <h2 id="soft-dev-projects">Software Development Projects </h2>
