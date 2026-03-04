@@ -47,7 +47,6 @@ Actively pursuing an IT internship to apply academic learning in real-world envi
   - Designed and deployed an AWS architecture using EC2, ALB, ASG, RDS Multi-AZ, SNS, and VPC, focusing on scalability, high availability, and disaster recovery.  <br/>
   → [View Project](https://github.com/your-repo-link)
 </details>
-
 <details>
   <summary><h3>Software Development Projects</h3></summary>
   
@@ -75,9 +74,8 @@ Actively pursuing an IT internship to apply academic learning in real-world envi
   - Designed and implemented a responsive web application using HTML and CSS, focusing on layout design and front-end fundamentals. <br/>  
     → [View Project](https://github.com/YeinJeong131/MyFirstWebsite) <br/>
 </details>
-
 <details>
-  <summary>Network Programming Projects</summary>
+  <summary><h3>Network Programming Projects</h3></summary>
   
   **Python Multi-threaded Web Server**
   - Implemented an HTTP 1.1 web server using Python socket programming. Supports multi-threaded client handling, file retrieval, and basic HTTP error handling. <br/>
