@@ -37,7 +37,6 @@ Actively pursuing an IT internship to apply academic learning in real-world envi
 - [Cloud Projects](#cloud-projects)
 - [Software Development Projects](#soft-dev-projects)
 - [Network Programming Projects](#net-projects)
-- [Cybersecurity Projects](#cybersec-projects)
 
 
 <h2 id="cloud-projects">Cloud Projects </h2>
@@ -53,45 +52,41 @@ Actively pursuing an IT internship to apply academic learning in real-world envi
 
 <h2 id="soft-dev-projects">Software Development Projects </h2>
 
-### Introductory Java Programming Projects <br/>
-
-**Object-Oriented Java Application (Programming 1 Coursework)**
-- Developed a Java desktop application applying object-oriented programming principles and basic data structures.  → [SuperCar Customizing Project](https://github.com/YeinJeong131/SuperCarCustomizationApp)
+**Object-Oriented Java Application**
+- Developed a Java desktop application applying object-oriented programming principles and basic data structures.
+  → [SuperCar Customizing Project](https://github.com/YeinJeong131/SuperCarCustomizationApp)
  <br/>
 
-**Study Planner Application (Programming 2 coursework)**
-- Built a Java application featuring file I/O, list management, and a menu-driven interface for managing study tasks.  
-→ [Study Planner App](https://github.com/YeinJeong131/StudyPlannerApp) 
+**Study Planner Application**
+- Developed a Java application featuring file I/O, list management, and a menu-driven interface for managing study tasks.  
+  → [Study Planner App](https://github.com/YeinJeong131/StudyPlannerApp) 
 <br/>
 
-**Task Manager Application with MVC Pattern (Programming 2 coursework)**
+**Task Manager Application with MVC Pattern**
 - Implemented a Java application using MVC architecture with task sorting and advanced user interaction features.
-→ [Task Manager App](https://github.com/YeinJeong131/TaskManagerApp) <br/>
+  → [Task Manager App](https://github.com/YeinJeong131/TaskManagerApp) <br/>
     
-### Basic Web Systems Project
-**Responsive Web Application (Web Systems Coursework)**
+**Responsive Web Application**
 - Designed and implemented a responsive web application using HTML and CSS, focusing on layout design and front-end fundamentals.  
-→ [View Project](https://github.com/YeinJeong131/MyFirstWebsite) <br/>
+  → [View Project](https://github.com/YeinJeong131/MyFirstWebsite) <br/>
 
-### Full Stack Java Web Application
 **IoTBay Web System**
 - Developed a web-based IoT device transaction platform with user authentication, product catalogue, and order/payment management using Java (JSP/Servlet), JDBC, and MVC architecture.  
-→ [View Project](https://github.com/your-repo-link)
+  → [View Project](https://github.com/your-repo-link)
 
-<h2 id="cybersec-projects"> Cybersecurity Projects </h2>
 
 <h2 id="net-projects"> Network Programming Projects</h2>
 
-- Multi-threaded Web Server  
-  - <b>[Python-based Multi-threaded Web Server](https://github.com/YeinJeong131/Multithreaded-WebServer-Python)</b>  
-    - Implemented an HTTP 1.1 web server using Python socket programming. Supports multi-threaded client handling, file retrieval, and basic HTTP error handling.
+**Python Multi-threaded Web Server**
+- Implemented an HTTP 1.1 web server using Python socket programming. Supports multi-threaded client handling, file retrieval, and basic HTTP error handling. 
+  → [View Project](https://github.com/YeinJeong131/Multithreaded-WebServer-Python) <br/>
 
-- UDP Pinger Simulator  
-  - <b>[UDP Pinger Simulator](https://github.com/YeinJeong131/UDP-Pinger-Simulator)</b>  
-    - Simulates ICMP-like ping behavior over UDP. Built using Python to send/receive packets with simulated packet loss and delay, measuring round-trip time (RTT).
+**UDP Pinger Simulator**  
+- Simulates ICMP-like ping behavior over UDP. Built using Python to send/receive packets with simulated packet loss and delay, measuring round-trip time (RTT).
+  → [View Project](https://github.com/YeinJeong131/UDP-Pinger-Simulator) <br/>
 
-- UDP Heartbeat Checker  
-  - <b>[UDP Heartbeat Checker](https://github.com/YeinJeong131/UDP-Heartbeat-Checker)</b>  
-    - Implements a heartbeat monitoring system over UDP. Server tracks active clients based on periodic heartbeat messages; inactive clients are flagged based on timeout thresholds.
+**UDP Heartbeat Checker**
+- Implements a heartbeat monitoring system over UDP. Server tracks active clients based on periodic heartbeat messages; inactive clients are flagged based on timeout thresholds.
+  → [View Project](https://github.com/YeinJeong131/UDP-Heartbeat-Checker)
 
 
