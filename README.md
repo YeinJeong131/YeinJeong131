@@ -7,7 +7,7 @@ I am an **Information Technology** student at the **<u>University of Technology 
 - Sub-major: Networking & Cybersecurity
 - Currently seeking **IT Internship or Graduate opportunities**
   
-As a UTS IT student I am building technical foundations through system-focused, project-based coursework in full-stack web development, database-driven systems, and cloud-based architecture.
+As I study, I am building technical foundations through system-focused, project-based coursework in full-stack web development, database-driven systems, and cloud-based architecture.
 
 Experienced in clear technical communication, problem clarification, and structured project organisation, supporting non-IT users and managing academic projects using digital tools such as Notion, Microsoft tools, and AI-assisted documentation workflows. 
 
