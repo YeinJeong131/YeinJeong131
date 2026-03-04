@@ -87,10 +87,11 @@ Actively pursuing an IT internship to apply academic learning in real-world envi
   
   **UDP Heartbeat Checker**
   - Implements a heartbeat monitoring system over UDP. Server tracks active clients based on periodic heartbeat messages; inactive clients are flagged based on timeout thresholds. <br/>
+    → [View Project](https://github.com/YeinJeong131/UDP-Heartbeat-Checker)
 </details>
 
 
 
-  → [View Project](https://github.com/YeinJeong131/UDP-Heartbeat-Checker)
+
 
 
