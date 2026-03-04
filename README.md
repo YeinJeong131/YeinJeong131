@@ -53,25 +53,25 @@ Actively pursuing an IT internship to apply academic learning in real-world envi
 <h2 id="soft-dev-projects">Software Development Projects </h2>
 
 **Object-Oriented Java Application**
-- Developed a Java desktop application applying object-oriented programming principles and basic data structures.
+- Developed a Java desktop application applying object-oriented programming principles and basic data structures. <br/>
   → [SuperCar Customizing Project](https://github.com/YeinJeong131/SuperCarCustomizationApp)
  <br/>
 
 **Study Planner Application**
-- Developed a Java application featuring file I/O, list management, and a menu-driven interface for managing study tasks.  
+- Developed a Java application featuring file I/O, list management, and a menu-driven interface for managing study tasks.  <br/>
   → [Study Planner App](https://github.com/YeinJeong131/StudyPlannerApp) 
 <br/>
 
 **Task Manager Application with MVC Pattern**
-- Implemented a Java application using MVC architecture with task sorting and advanced user interaction features.
+- Implemented a Java application using MVC architecture with task sorting and advanced user interaction features. <br/>
   → [Task Manager App](https://github.com/YeinJeong131/TaskManagerApp) <br/>
     
 **Responsive Web Application**
-- Designed and implemented a responsive web application using HTML and CSS, focusing on layout design and front-end fundamentals.  
+- Designed and implemented a responsive web application using HTML and CSS, focusing on layout design and front-end fundamentals. <br/>  
   → [View Project](https://github.com/YeinJeong131/MyFirstWebsite) <br/>
 
 **IoTBay Web System**
-- Developed a web-based IoT device transaction platform with user authentication, product catalogue, and order/payment management using Java (JSP/Servlet), JDBC, and MVC architecture.  
+- Developed a web-based IoT device transaction platform with user authentication, product catalogue, and order/payment management using Java (JSP/Servlet), JDBC, and MVC architecture.  <br/>
   → [View Project](https://github.com/your-repo-link)
 
 
