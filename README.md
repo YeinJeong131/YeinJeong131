@@ -78,15 +78,15 @@ Actively pursuing an IT internship to apply academic learning in real-world envi
 <h2 id="net-projects"> Network Programming Projects</h2>
 
 **Python Multi-threaded Web Server**
-- Implemented an HTTP 1.1 web server using Python socket programming. Supports multi-threaded client handling, file retrieval, and basic HTTP error handling. 
+- Implemented an HTTP 1.1 web server using Python socket programming. Supports multi-threaded client handling, file retrieval, and basic HTTP error handling. <br/>
   → [View Project](https://github.com/YeinJeong131/Multithreaded-WebServer-Python) <br/>
 
 **UDP Pinger Simulator**  
-- Simulates ICMP-like ping behavior over UDP. Built using Python to send/receive packets with simulated packet loss and delay, measuring round-trip time (RTT).
+- Simulates ICMP-like ping behavior over UDP. Built using Python to send/receive packets with simulated packet loss and delay, measuring round-trip time (RTT). <br/>
   → [View Project](https://github.com/YeinJeong131/UDP-Pinger-Simulator) <br/>
 
 **UDP Heartbeat Checker**
-- Implements a heartbeat monitoring system over UDP. Server tracks active clients based on periodic heartbeat messages; inactive clients are flagged based on timeout thresholds.
+- Implements a heartbeat monitoring system over UDP. Server tracks active clients based on periodic heartbeat messages; inactive clients are flagged based on timeout thresholds. <br/>
   → [View Project](https://github.com/YeinJeong131/UDP-Heartbeat-Checker)
 
 
