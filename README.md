@@ -52,26 +52,26 @@ Actively pursuing an IT internship to apply academic learning in real-world envi
 → [View Project](https://github.com/your-repo-link)
 
 <h2 id="soft-dev-projects">Software Development Projects </h2>
+### Introductory Java Programming Projects <br/>
 
-- **Introductory Java Programming Projects**
-  - Object-Oriented Java Application (Programming 1 coursework)  
-    - _Developed a Java desktop application applying object-oriented programming concepts and basic data structures._  
-        → [SuperCar customizing project](https://github.com/YeinJeong131/SuperCarCustomizationApp)
-  - Study Planner Application (Programming 2 coursework) 
-    - _Developed a Java application with file I/O, list management, and menu-driven interaction features._  
-        → [Study Planner App](https://github.com/YeinJeong131/StudyPlannerApp)
-  - Task Manager Application with MVC Pattern (Programming 2 coursework)  
-    - _Implemented a Java application using MVC pattern, list sorting, and advanced user interaction handling._  
-        → [Task Manager App](https://github.com/YeinJeong131/TaskManagerApp)
+**Object-Oriented Java Application (Programming 1 Coursework)**
+- Developed a Java desktop application applying object-oriented programming principles and basic data structures.  → [SuperCar Customizing Project](https://github.com/YeinJeong131/SuperCarCustomizationApp)
+**Study Planner Application (Programming 2 coursework)**
+- Built a Java application featuring file I/O, list management, and a menu-driven interface for managing study tasks.  
+→ [Study Planner App](https://github.com/YeinJeong131/StudyPlannerApp)
+**Task Manager Application with MVC Pattern (Programming 2 coursework)**
+- Implemented a Java application using MVC architecture with task sorting and advanced user interaction features.
+→ [Task Manager App](https://github.com/YeinJeong131/TaskManagerApp)
     
-- **Basic Web Systems Project**  
-  - <b>Responsive Web Application (Web Systems coursework)</b>  
-    - [Designed and implemented my first responsive web application using only HTML and CSS. This project focused on applying basic layout and styling principles, introducing me to core front-end development concepts.](https://github.com/YeinJeong131/MyFirstWebsite)
+### Basic Web Systems Project
+**Responsive Web Application (Web Systems Coursework)**
+- Designed and implemented a responsive web application using HTML and CSS, focusing on layout design and front-end fundamentals.  
+→ [View Project](https://github.com/YeinJeong131/MyFirstWebsite)
 
-      
-- **Full Stack Java Web Application**  
-  - <b>IoTBay Web System (Full Stack Java Web Application)</b>  
-    - [Developed a web-based IoT device transaction system with user access management, product catalogue, order & payment management, implemented in Java (JSP/Servlet), JDBC, and MVC architecture.](https://github.com/your-repo-link)
+### Full Stack Java Web Application
+**IoTBay Web System**
+- Developed a web-based IoT device transaction platform with user authentication, product catalogue, and order/payment management using Java (JSP/Servlet), JDBC, and MVC architecture.  
+→ [View Project](https://github.com/your-repo-link)
 
 <h2 id="cybersec-projects"> Cybersecurity Projects </h2>
 
