@@ -56,18 +56,18 @@ Actively pursuing an IT internship to apply academic learning in real-world envi
 ### Introductory Java Programming Projects <br/>
 
 **Object-Oriented Java Application (Programming 1 Coursework)**
-- Developed a Java desktop application applying object-oriented programming principles and basic data structures.  → [SuperCar Customizing Project](https://github.com/YeinJeong131/SuperCarCustomizationApp)
+- Developed a Java desktop application applying object-oriented programming principles and basic data structures.  → [SuperCar Customizing Project](https://github.com/YeinJeong131/SuperCarCustomizationApp) <br/>
 **Study Planner Application (Programming 2 coursework)**
 - Built a Java application featuring file I/O, list management, and a menu-driven interface for managing study tasks.  
-→ [Study Planner App](https://github.com/YeinJeong131/StudyPlannerApp)
+→ [Study Planner App](https://github.com/YeinJeong131/StudyPlannerApp) <br/>
 **Task Manager Application with MVC Pattern (Programming 2 coursework)**
 - Implemented a Java application using MVC architecture with task sorting and advanced user interaction features.
-→ [Task Manager App](https://github.com/YeinJeong131/TaskManagerApp)
+→ [Task Manager App](https://github.com/YeinJeong131/TaskManagerApp) <br/>
     
 ### Basic Web Systems Project
 **Responsive Web Application (Web Systems Coursework)**
 - Designed and implemented a responsive web application using HTML and CSS, focusing on layout design and front-end fundamentals.  
-→ [View Project](https://github.com/YeinJeong131/MyFirstWebsite)
+→ [View Project](https://github.com/YeinJeong131/MyFirstWebsite) <br/>
 
 ### Full Stack Java Web Application
 **IoTBay Web System**
