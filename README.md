@@ -52,6 +52,7 @@ Actively pursuing an IT internship to apply academic learning in real-world envi
 → [View Project](https://github.com/your-repo-link)
 
 <h2 id="soft-dev-projects">Software Development Projects </h2>
+
 ### Introductory Java Programming Projects <br/>
 
 **Object-Oriented Java Application (Programming 1 Coursework)**
