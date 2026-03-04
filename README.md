@@ -40,10 +40,6 @@ Actively pursuing an IT internship to apply academic learning in real-world envi
 - [Cybersecurity Projects](#cybersec-projects)
 
 
-
-## GitHub Stats:
-![Yein's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeinJeong131&show_icons=true&theme=radical)
-
 <h2 id="cloud-projects">Cloud Projects </h2>
 
 - Low-code SaaS Application with Automation & Security  
