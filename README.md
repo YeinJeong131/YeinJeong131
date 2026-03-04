@@ -34,10 +34,6 @@ Actively pursuing an IT internship to apply academic learning in real-world envi
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 ## My Projects
-- [Cloud / DevOps Projects](#cloud-projects)
-- [Software Development Projects](#soft-dev-projects)
-- [Network Programming Projects](#net-projects)
-
 
 <details>
   <summary><h3>Cloud Projects</h3></summary>
@@ -52,47 +48,51 @@ Actively pursuing an IT internship to apply academic learning in real-world envi
   → [View Project](https://github.com/your-repo-link)
 </details>
 
-
-<h2 id="soft-dev-projects">Software Development Projects </h2>
-
-**IoTBay Web System**
-- Developed a web-based IoT device transaction platform with user authentication, product catalogue, and order/payment management using Java (JSP/Servlet), JDBC, and MVC architecture.  <br/>
-  → [View Project](https://github.com/your-repo-link)
+<details>
+  <summary><h3>Software Development Projects</h3></summary>
+  
+  **IoTBay Web System**
+  - Developed a web-based IoT device transaction platform with user authentication, product catalogue, and order/payment management using Java (JSP/Servlet), JDBC, and MVC architecture.  <br/>
+    → [View Project](https://github.com/your-repo-link)
+    <br/>
+  
+  
+  **Object-Oriented Java Application**
+  - Developed a Java desktop application applying object-oriented programming principles and basic data structures. <br/>
+    → [SuperCar Customizing Project](https://github.com/YeinJeong131/SuperCarCustomizationApp)
+   <br/>
+  
+  **Study Planner Application**
+  - Developed a Java application featuring file I/O, list management, and a menu-driven interface for managing study tasks.  <br/>
+    → [Study Planner App](https://github.com/YeinJeong131/StudyPlannerApp) 
   <br/>
+  
+  **Task Manager Application with MVC Pattern**
+  - Implemented a Java application using MVC architecture with task sorting and advanced user interaction features. <br/>
+    → [Task Manager App](https://github.com/YeinJeong131/TaskManagerApp) <br/>
+      
+  **Responsive Web Application**
+  - Designed and implemented a responsive web application using HTML and CSS, focusing on layout design and front-end fundamentals. <br/>  
+    → [View Project](https://github.com/YeinJeong131/MyFirstWebsite) <br/>
+</details>
+
+<details>
+  <summary>Network Programming Projects</summary>
+  
+  **Python Multi-threaded Web Server**
+  - Implemented an HTTP 1.1 web server using Python socket programming. Supports multi-threaded client handling, file retrieval, and basic HTTP error handling. <br/>
+    → [View Project](https://github.com/YeinJeong131/Multithreaded-WebServer-Python) <br/>
+  
+  **UDP Pinger Simulator**  
+  - Simulates ICMP-like ping behavior over UDP. Built using Python to send/receive packets with simulated packet loss and delay, measuring round-trip time (RTT). <br/>
+    → [View Project](https://github.com/YeinJeong131/UDP-Pinger-Simulator) <br/>
+  
+  **UDP Heartbeat Checker**
+  - Implements a heartbeat monitoring system over UDP. Server tracks active clients based on periodic heartbeat messages; inactive clients are flagged based on timeout thresholds. <br/>
+</details>
 
 
-**Object-Oriented Java Application**
-- Developed a Java desktop application applying object-oriented programming principles and basic data structures. <br/>
-  → [SuperCar Customizing Project](https://github.com/YeinJeong131/SuperCarCustomizationApp)
- <br/>
 
-**Study Planner Application**
-- Developed a Java application featuring file I/O, list management, and a menu-driven interface for managing study tasks.  <br/>
-  → [Study Planner App](https://github.com/YeinJeong131/StudyPlannerApp) 
-<br/>
-
-**Task Manager Application with MVC Pattern**
-- Implemented a Java application using MVC architecture with task sorting and advanced user interaction features. <br/>
-  → [Task Manager App](https://github.com/YeinJeong131/TaskManagerApp) <br/>
-    
-**Responsive Web Application**
-- Designed and implemented a responsive web application using HTML and CSS, focusing on layout design and front-end fundamentals. <br/>  
-  → [View Project](https://github.com/YeinJeong131/MyFirstWebsite) <br/>
-
-
-
-<h2 id="net-projects"> Network Programming Projects</h2>
-
-**Python Multi-threaded Web Server**
-- Implemented an HTTP 1.1 web server using Python socket programming. Supports multi-threaded client handling, file retrieval, and basic HTTP error handling. <br/>
-  → [View Project](https://github.com/YeinJeong131/Multithreaded-WebServer-Python) <br/>
-
-**UDP Pinger Simulator**  
-- Simulates ICMP-like ping behavior over UDP. Built using Python to send/receive packets with simulated packet loss and delay, measuring round-trip time (RTT). <br/>
-  → [View Project](https://github.com/YeinJeong131/UDP-Pinger-Simulator) <br/>
-
-**UDP Heartbeat Checker**
-- Implements a heartbeat monitoring system over UDP. Server tracks active clients based on periodic heartbeat messages; inactive clients are flagged based on timeout thresholds. <br/>
   → [View Project](https://github.com/YeinJeong131/UDP-Heartbeat-Checker)
 
 
