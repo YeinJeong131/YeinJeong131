@@ -1,19 +1,22 @@
 # 💫 About Me:
-### Hi, I'm Yein! 👋
+Hi, I'm Yein Jeong.
 
-- Aspiring **Cloud Engineer** <br/> 
-- Currently studying Bachelor of Information Technology at **UTS**  <br/>
-  - (Major: Enterprise Software Development | Sub-major: Networking & Cybersecurity)  <br/>
-- Currently learning **AWS Cloud Practitioner** (Udemy) <br/>
-- Currently working on [BetterPedia Project](https://github.com/YeinJeong131/ASD) <br/>
+I am an **Information Technology** student at the **<u>University of Technology Sydney</u>**.
 
-- Working as a Korean tutor on AmazingTalker  <br/>
-- **Leader** of "컴퓨터 해방방" — **an IT & AI knowledge-sharing channel** in a 1,300+ member Discord community  <br/>
-(Conducting Notion database & dashboard mini-classes, writing AI & IT related articles/columns) <br/>
+- Major: Enterprise Software Development  
+- Sub-major: Networking & Cybersecurity
+- Currently seeking **IT Internship or Graduate opportunities**
+  
+As a UTS IT student I am building technical foundations through system-focused, project-based coursework in full-stack web development, database-driven systems, and cloud-based architecture.
+
+Experienced in clear technical communication, problem clarification, and structured project organisation, supporting non-IT users and managing academic projects using digital tools such as Notion, Microsoft tools, and AI-assisted documentation workflows. 
+
+Actively pursuing an IT internship to apply academic learning in real-world environments, with growing cloud expertise supported by AWS Cloud Practitioner certification and hands-on projects.
+
 
 
 ##  My Profiles:
-- [My LinkedIn](https://www.linkedin.com/in/yein-jeong-953b60303/)  <br/>
+- [My LinkedIn](www.linkedin.com/in/yein-jeong)  <br/>
 - [My GitHub](https://github.com/YeinJeong131)  <br/>
 - [My Portfolium](https://portfolium.com.au/YeinJeong/portfolio)<br/>
 
