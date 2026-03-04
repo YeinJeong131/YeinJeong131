@@ -40,7 +40,7 @@ Actively pursuing an IT internship to apply academic learning in real-world envi
 
 
 <details>
-  <summary>Cloud Projects</summary>
+  <summary><h3>Cloud Projects</h3></summary>
 
   **Cloud-based Business Application with Workflow Automation (Salesforce Force.com)**  
   - Designed and implemented an automated Equipment Maintenance Tracker using the Salesforce Force.com platform, focusing on workflow automation, security configuration, and role-based access controls. <br/>
