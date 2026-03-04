@@ -42,12 +42,12 @@ Actively pursuing an IT internship to apply academic learning in real-world envi
 
 <h2 id="cloud-projects">Cloud Projects </h2>
 
-- Low-code SaaS Application with Automation & Security  
-  - <b>Cloud-based Business Application with Workflow Automation (Force.com platform)</b>  
-    - [Designed and implemented an automated Equipment Maintenance Tracker using Salesforce Force.com platform, focusing on workflow automation, security configuration, and role-based access controls.](https://github.com/YeinJeong131/Workflow-Automation-App-ForceCom)
-- AWS-based Cloud Infrastructure Architecture  
-  - <b>Scalable AWS Cloud Architecture with Auto Scaling & Multi-AZ RDS</b>  
-    - [Designed and deployed an AWS architecture using EC2, ALB, ASG, RDS Multi-AZ, SNS, and VPC, focusing on scalability, high availability, and disaster recovery.](https://github.com/your-repo-link)
+**Cloud-based Business Application with Workflow Automation (Salesforce Force.com)**  
+Designed and implemented an automated Equipment Maintenance Tracker using the Salesforce Force.com platform, focusing on workflow automation, security configuration, and role-based access controls. 
+→ [View Project](https://github.com/YeinJeong131/Workflow-Automation-App-ForceCom)
+**Scalable AWS Cloud Architecture with Auto Scaling & Multi-AZ RDS**  
+Designed and deployed an AWS architecture using EC2, ALB, ASG, RDS Multi-AZ, SNS, and VPC, focusing on scalability, high availability, and disaster recovery. 
+→ [View Project](https://github.com/your-repo-link)
 
 <h2 id="soft-dev-projects">Software Development Projects </h2>
 
