@@ -7,7 +7,7 @@ I am an **Information Technology** student at the <ins>**University of Technolog
 - Sub-major: Networking & Cybersecurity
 - Currently seeking **IT Internship or Graduate opportunities**
   
-Through my studies, I am building technical foundations through system-focused, project-based coursework in full-stack web development, database-driven systems, and cloud-based architecture.
+Through my studies, I am building technical foundations through system-focused projects in full-stack web development, database-driven systems, and cloud-based architecture.
 
 Experienced in clear technical communication, problem clarification, and structured project organisation, supporting non-IT users and managing academic projects using digital tools such as Notion, Microsoft tools, and AI-assisted documentation workflows. 
 
@@ -34,12 +34,13 @@ Actively pursuing an IT internship to apply academic learning in real-world envi
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 ## My Projects
-- [Cloud Projects](#cloud-projects)
+- [Cloud / DevOps Projects](#cloud-projects)
 - [Software Development Projects](#soft-dev-projects)
 - [Network Programming Projects](#net-projects)
 
 
-<h2 id="cloud-projects">Cloud Projects </h2>
+<details>
+  <summary><h2 id="cloud-projects">Cloud Projects </h2></summary>
 
 **Cloud-based Business Application with Workflow Automation (Salesforce Force.com)**  
 - Designed and implemented an automated Equipment Maintenance Tracker using the Salesforce Force.com platform, focusing on workflow automation, security configuration, and role-based access controls. <br/>
@@ -49,8 +50,16 @@ Actively pursuing an IT internship to apply academic learning in real-world envi
 **Scalable AWS Cloud Architecture with Auto Scaling & Multi-AZ RDS**  
 - Designed and deployed an AWS architecture using EC2, ALB, ASG, RDS Multi-AZ, SNS, and VPC, focusing on scalability, high availability, and disaster recovery.  <br/>
 → [View Project](https://github.com/your-repo-link)
+</details>
+
 
 <h2 id="soft-dev-projects">Software Development Projects </h2>
+
+**IoTBay Web System**
+- Developed a web-based IoT device transaction platform with user authentication, product catalogue, and order/payment management using Java (JSP/Servlet), JDBC, and MVC architecture.  <br/>
+  → [View Project](https://github.com/your-repo-link)
+  <br/>
+
 
 **Object-Oriented Java Application**
 - Developed a Java desktop application applying object-oriented programming principles and basic data structures. <br/>
@@ -70,9 +79,6 @@ Actively pursuing an IT internship to apply academic learning in real-world envi
 - Designed and implemented a responsive web application using HTML and CSS, focusing on layout design and front-end fundamentals. <br/>  
   → [View Project](https://github.com/YeinJeong131/MyFirstWebsite) <br/>
 
-**IoTBay Web System**
-- Developed a web-based IoT device transaction platform with user authentication, product catalogue, and order/payment management using Java (JSP/Servlet), JDBC, and MVC architecture.  <br/>
-  → [View Project](https://github.com/your-repo-link)
 
 
 <h2 id="net-projects"> Network Programming Projects</h2>
