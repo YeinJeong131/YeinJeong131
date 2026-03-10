@@ -47,14 +47,14 @@ Actively pursuing an IT internship to apply academic learning in real-world envi
   
   **Scalable AWS Cloud Architecture with Auto Scaling & Multi-AZ RDS**  
   - Designed and deployed an AWS architecture using EC2, ALB, ASG, RDS Multi-AZ, SNS, and VPC, focusing on scalability, high availability, and disaster recovery.  <br/>
-  → [View Project](https://github.com/your-repo-link)
+  → [View Project]([https://github.com/your-repo-link](https://github.com/YeinJeong131/Scalable-AWS-Web-Architecture-))
 </details>
 <details>
   <summary><h3>Software Development Projects</h3></summary>
   
   **IoTBay Web System**
   - Developed a web-based IoT device transaction platform with user authentication, product catalogue, and order/payment management using Java (JSP/Servlet), JDBC, and MVC architecture.  <br/>
-    → [View Project](https://github.com/your-repo-link)
+    → [View Project]([https://github.com/your-repo-link](https://github.com/YeinJeong131/ISD---group))
     <br/>
   
   
