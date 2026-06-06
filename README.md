@@ -39,6 +39,7 @@ Actively pursuing an IT internship to apply academic learning in real-world envi
 
 <details>
   <summary><h3>Featured Projects</h3></summary>
+  
   **IoTBay Web System**
   - Developed a web-based IoT device transaction platform with user authentication, product catalogue, and order/payment management using Java (JSP/Servlet), JDBC, and MVC architecture.  <br/>
     → [View Project](https://github.com/YeinJeong131/ISD---group)
