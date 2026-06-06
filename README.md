@@ -38,51 +38,46 @@ Actively pursuing an IT internship to apply academic learning in real-world envi
 ## My Projects
 
 <details>
-  <summary><h3>Cloud & DevOps Projects</h3></summary>
-
-  **Cloud-based Business Application with Workflow Automation (Salesforce Force.com)**  
-  - Designed and implemented an automated Equipment Maintenance Tracker using the Salesforce Force.com platform, focusing on workflow automation, security configuration, and role-based access controls. <br/>
-  → [View Project](https://github.com/YeinJeong131/Workflow-Automation-App-ForceCom) <br/>
-  
-  
-  **Scalable AWS Cloud Architecture with Auto Scaling & Multi-AZ RDS**  
-  - Designed and deployed an AWS architecture using EC2, ALB, ASG, RDS Multi-AZ, SNS, and VPC, focusing on scalability, high availability, and disaster recovery.  <br/>
-  → [View Project](https://github.com/YeinJeong131/Scalable-AWS-Web-Architecture-)
-</details>
-<details>
-  <summary><h3>Software Development Projects</h3></summary>
-  
+  <summary><h3>Featured Projects</h3></summary>
   **IoTBay Web System**
   - Developed a web-based IoT device transaction platform with user authentication, product catalogue, and order/payment management using Java (JSP/Servlet), JDBC, and MVC architecture.  <br/>
     → [View Project](https://github.com/YeinJeong131/ISD---group)
     <br/>
+
+**Scalable AWS Cloud Architecture with Auto Scaling & Multi-AZ RDS**  
+  - Designed and deployed an AWS architecture using EC2, ALB, ASG, RDS Multi-AZ, SNS, and VPC, focusing on scalability, high availability, and disaster recovery.  <br/>
+  → [View Project](https://github.com/YeinJeong131/Scalable-AWS-Web-Architecture-)
+
+**Python Multi-threaded Web Server**
+  - Implemented an HTTP 1.1 web server using Python socket programming. Supports multi-threaded client handling, file retrieval, and basic HTTP error handling. <br/>
+    → [View Project](https://github.com/YeinJeong131/Multithreaded-WebServer-Python) <br/>
   
+  **Cloud-based Business Application with Workflow Automation (Salesforce Force.com)**  
+  - Designed and implemented an automated Equipment Maintenance Tracker using the Salesforce Force.com platform, focusing on workflow automation, security configuration, and role-based access controls. <br/>
+  → [View Project](https://github.com/YeinJeong131/Workflow-Automation-App-ForceCom) <br/>
+  
+</details>
+<details>
+  <summary><h3>Additional Projects</h3></summary>
+
+  **Study Planner Application**
+  - Developed a Java application featuring file I/O, list management, and a menu-driven interface for managing study tasks.  <br/>
+    → [Study Planner App](https://github.com/YeinJeong131/StudyPlannerApp) 
+  <br/>
+
+  **Task Manager Application with MVC Pattern**
+  - Implemented a Java application using MVC architecture with task sorting and advanced user interaction features. <br/>
+    → [Task Manager App](https://github.com/YeinJeong131/TaskManagerApp) <br/>
   
   **Object-Oriented Java Application**
   - Developed a Java desktop application applying object-oriented programming principles and basic data structures. <br/>
     → [SuperCar Customizing Project](https://github.com/YeinJeong131/SuperCarCustomizationApp)
    <br/>
-  
-  **Study Planner Application**
-  - Developed a Java application featuring file I/O, list management, and a menu-driven interface for managing study tasks.  <br/>
-    → [Study Planner App](https://github.com/YeinJeong131/StudyPlannerApp) 
-  <br/>
-  
-  **Task Manager Application with MVC Pattern**
-  - Implemented a Java application using MVC architecture with task sorting and advanced user interaction features. <br/>
-    → [Task Manager App](https://github.com/YeinJeong131/TaskManagerApp) <br/>
-      
+
   **Responsive Web Application**
   - Designed and implemented a responsive web application using HTML and CSS, focusing on layout design and front-end fundamentals. <br/>  
     → [View Project](https://github.com/YeinJeong131/MyFirstWebsite) <br/>
-</details>
-<details>
-  <summary><h3>Network Programming Projects</h3></summary>
-  
-  **Python Multi-threaded Web Server**
-  - Implemented an HTTP 1.1 web server using Python socket programming. Supports multi-threaded client handling, file retrieval, and basic HTTP error handling. <br/>
-    → [View Project](https://github.com/YeinJeong131/Multithreaded-WebServer-Python) <br/>
-  
+
   **UDP Pinger Simulator**  
   - Simulates ICMP-like ping behavior over UDP. Built using Python to send/receive packets with simulated packet loss and delay, measuring round-trip time (RTT). <br/>
     → [View Project](https://github.com/YeinJeong131/UDP-Pinger-Simulator) <br/>
