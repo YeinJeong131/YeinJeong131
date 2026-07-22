@@ -39,6 +39,10 @@ Actively pursuing an IT internship to apply academic learning in real-world envi
 
 <details>
   <summary><h3>Featured Projects</h3></summary>
+
+  **Community Energy Map (Industry Project)**
+  - Collaborated with Community Power Agency Australia to develop a community energy mapping platform. Translated client requirements into technical solutions, managed data models and CSV imports using Directus, and contributed within an Agile development team.
+  → Source code is not publicly available due to project confidentiality.
   
   **IoTBay Web System**
   - Developed a web-based IoT device transaction platform with user authentication, product catalogue, and order/payment management using Java (JSP/Servlet), JDBC, and MVC architecture.  <br/>
