@@ -21,20 +21,6 @@ Actively pursuing an IT internship to apply academic learning in real-world envi
 - [My Portfolium](https://portfolium.com.au/YeinJeong/portfolio)<br/>
 ----
 
-
-## Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  <br/>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) <br/>
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) <br/>
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) <br/>
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white) <br/>
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Salesforce](https://img.shields.io/badge/Salesforce-blue?style=for-the-badge&logo=salesforce&logoColor=white) 
-## Productivity Tools
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-
-
-----
 ## My Projects
 
 <details>
@@ -43,31 +29,31 @@ Actively pursuing an IT internship to apply academic learning in real-world envi
   **Betterpedia – Wikipedia-like Platform**
   - A group-built Spring Boot platform extending traditional wiki functionality with community features and content management. I independently implemented three modules: user account/admin management, customizable appearance settings, and a highlight & personal notes system, including entities, services, REST APIs, session-based auth, and input validation, using Spring Boot, JPA, Thymeleaf, and MySQL.
   → [View Project](https://github.com/YeinJeong131/ASD2)
-  
-  **Community Energy Map (Industry Project)**
-  - Collaborated with Community Power Agency Australia to develop a community energy mapping platform. Translated client requirements into technical solutions, managed data models and CSV imports using Directus, and contributed within an Agile development team.
-  → Source code is not publicly available due to project confidentiality.
-  
+
   **IoTBay Web System**
   - Developed a web-based IoT device transaction platform with user authentication, product catalogue, and order/payment management using Java (JSP/Servlet), JDBC, and MVC architecture.  <br/>
     → [View Project](https://github.com/YeinJeong131/ISD---group)
     <br/>
 
-**Scalable AWS Cloud Architecture with Auto Scaling & Multi-AZ RDS**  
+  **Scalable AWS Cloud Architecture with Auto Scaling & Multi-AZ RDS**  
   - Designed and deployed an AWS architecture using EC2, ALB, ASG, RDS Multi-AZ, SNS, and VPC, focusing on scalability, high availability, and disaster recovery.  <br/>
   → [View Project](https://github.com/YeinJeong131/Scalable-AWS-Web-Architecture-)
 
-**Python Multi-threaded Web Server**
+  **Community Energy Map (Industry Project)**
+  - Collaborated with Community Power Agency Australia to develop a community energy mapping platform. Translated client requirements into technical solutions, managed data models and CSV imports using Directus, and contributed within an Agile development team.
+  → Source code is not publicly available due to project confidentiality.
+  
+</details>
+<details>
+  <summary><h3>Additional Projects</h3></summary>
+  
+  **Python Multi-threaded Web Server**
   - Implemented an HTTP 1.1 web server using Python socket programming. Supports multi-threaded client handling, file retrieval, and basic HTTP error handling. <br/>
     → [View Project](https://github.com/YeinJeong131/Multithreaded-WebServer-Python) <br/>
   
   **Cloud-based Business Application with Workflow Automation (Salesforce Force.com)**  
   - Designed and implemented an automated Equipment Maintenance Tracker using the Salesforce Force.com platform, focusing on workflow automation, security configuration, and role-based access controls. <br/>
   → [View Project](https://github.com/YeinJeong131/Workflow-Automation-App-ForceCom) <br/>
-  
-</details>
-<details>
-  <summary><h3>Additional Projects</h3></summary>
 
   **Study Planner Application**
   - Developed a Java application featuring file I/O, list management, and a menu-driven interface for managing study tasks.  <br/>
@@ -96,8 +82,16 @@ Actively pursuing an IT internship to apply academic learning in real-world envi
     → [View Project](https://github.com/YeinJeong131/UDP-Heartbeat-Checker)
 </details>
 
+----
 
-
-
-
-
+## Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  <br/>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) <br/>
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) <br/>
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) <br/>
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) <br/>
+![JUnit5](https://img.shields.io/badge/JUnit5-f5f5f5?style=for-the-badge&logo=junit5&logoColor=dc524a) <br/>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Salesforce](https://img.shields.io/badge/Salesforce-blue?style=for-the-badge&logo=salesforce&logoColor=white) 
+## Productivity Tools
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
