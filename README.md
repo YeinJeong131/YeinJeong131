@@ -40,6 +40,10 @@ Actively pursuing an IT internship to apply academic learning in real-world envi
 <details>
   <summary><h3>Featured Projects</h3></summary>
 
+  **Betterpedia – Wikipedia-like Platform**
+  - A group-built Spring Boot platform extending traditional wiki functionality with community features and content management. I independently implemented three modules: user account/admin management, customizable appearance settings, and a highlight & personal notes system, including entities, services, REST APIs, session-based auth, and input validation, using Spring Boot, JPA, Thymeleaf, and MySQL.
+  → [View Project](https://github.com/YeinJeong131/ASD2)
+  
   **Community Energy Map (Industry Project)**
   - Collaborated with Community Power Agency Australia to develop a community energy mapping platform. Translated client requirements into technical solutions, managed data models and CSV imports using Directus, and contributed within an Agile development team.
   → Source code is not publicly available due to project confidentiality.
