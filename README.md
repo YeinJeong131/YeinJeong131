@@ -21,6 +21,34 @@ Actively pursuing an IT internship to apply academic learning in real-world envi
 - [My Portfolium](https://portfolium.com.au/YeinJeong/portfolio)<br/>
 ----
 
+## Current Project
+
+<details open>
+  <summary><h3>Career OS – Career Management Platform</h3></summary>
+
+A backend-focused career management platform for organising job applications, companies, interviews, and career progress.
+
+**Tech Stack:** Java • Spring Boot • Spring Data JPA • PostgreSQL • Gradle
+
+**Current Focus**
+- Backend architecture
+- REST API development
+- Database design
+- Job application management
+
+**Project Status**
+
+- Backend development in progress
+- Frontend will be developed after backend completion
+- Docker & AWS deployment planned
+
+→ [View Project](https://github.com/YeinJeong131/career-os)
+
+</details>
+
+----
+
+
 ## My Projects
 
 <details>
