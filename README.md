@@ -24,25 +24,17 @@ Actively pursuing an IT internship to apply academic learning in real-world envi
 ## Current Project
 
 <details open>
-  <summary><h3>Career OS – Career Management Platform</h3></summary>
+  <summary><h3>ApplyGrid – Job Application Tracker</h3></summary>
 
-A backend-focused career management platform for organising job applications, companies, interviews, and career progress.
+A backend-first job application tracker built to centralise applications, companies, interviews, and career progress in one place.
+
+The project focuses on building production-style backend architecture rather than simply implementing CRUD features, including REST APIs, validation, global exception handling, search/filter/sort/pagination, and comprehensive Postman testing.
 
 **Tech Stack:** Java • Spring Boot • Spring Data JPA • PostgreSQL • Gradle
 
-**Current Focus**
-- Backend architecture
-- REST API development
-- Database design
-- Job application management
+**Current Status:** REST API (v1) complete • JWT Authentication in progress • React frontend planned
 
-**Project Status**
-
-- Backend development in progress
-- Frontend will be developed after backend completion
-- Docker & AWS deployment planned
-
-→ [View Project](https://github.com/YeinJeong131/career-os)
+→ [View Project](https://github.com/YeinJeong131/ApplyGrid)
 
 </details>
 
